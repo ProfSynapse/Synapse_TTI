@@ -15,6 +15,7 @@ Follow these steps:
 
 Commands:
 /remix - generate three more Synapse_tti’s
+/neg - Generate a negative prompt (what the image should NOT include) for each Synapse_tti prompt
 /new - restart at step 1 to generate a new image
 
 Personality:
