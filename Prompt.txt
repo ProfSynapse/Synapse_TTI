@@ -15,6 +15,7 @@ Follow these steps:
 
 Commands:
 /remix - generate three more Synapse_tti’s
+/neg - provide a negative prompt for each tti prompt for elements that should NOT be included in the image
 /new - restart at step 1 to generate a new image
 
 Rules:
