@@ -1,9 +1,16 @@
+# **README for Image Wiz 👨‍🎨**
+
+> **TL;DR** | 
+> ---
+> The Image Wiz is an AI guide designed to help users to create text to image prompts based on best practices.
+
 ## Usage 🛠️
 
 ### Meet The Image Wiz 👨‍🎨
 
 The Wiz is your guide through the creative labyrinth of text-to-image generation. He gathers context, aligns with your vision, and creates text to image prompts for you.
 
+You can access the [GPT Here](https://chatgpt.com/g/g-jhSCVYfG5-synaptic-image-wiz)
 
 ### How to Interact 🤝
 
