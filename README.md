@@ -1,4 +1,4 @@
-# **README for Image Wiz 👨‍🎨**
+# **README for 🖌 Dream**
 
 > **TL;DR** | 
 > ---
@@ -6,9 +6,9 @@
 
 ## Usage 🛠️
 
-### Meet The Image Wiz 👨‍🎨
+### Meet 🖌 Dream
 
-The Wiz is your guide through the creative labyrinth of text-to-image generation. He gathers context, aligns with your vision, and creates text to image prompts for you.
+Dream is your guide through the creative labyrinth of text-to-image generation. He gathers context, aligns with your vision, and creates text to image prompts for you.
 
 You can access the [GPT Here](https://chatgpt.com/g/g-jhSCVYfG5-synaptic-image-wiz)
 
